@@ -22,6 +22,9 @@ extensions = [
 templates_path = ['_templates']
 exclude_patterns = []
 
+html_meta = {
+    "google-site-verification": "Z_wAKajgpFmJ_8C_BztcWl-0yXC35hNhPx4h1BXA1Xg"
+}
 
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
